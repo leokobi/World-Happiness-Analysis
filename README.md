@@ -1,5 +1,3 @@
-Work in Progress.....
-
 World Happiness Report
 
 This analysis was conducted based on data provided by the "Sustainable Development Solutions Network" on Kaggle. (More information https://www.kaggle.com/unsdsn/world-happiness).
